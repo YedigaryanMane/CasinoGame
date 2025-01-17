@@ -89,7 +89,7 @@ namespace ConsoleApp71
         {
             if (bet.Amount > playerBalance)
             {
-                Console.WriteLine("there is no sufficient balance.");
+                Console.WriteLine("There is no sufficient balance.");
             }
             else
             {
